@@ -44,7 +44,6 @@ import helpers from '../mixins/helpers.js'
 export default {
   mixins: [helpers],
   name  : "EmployeeUpdateProfile",
-  data  : () => ({}),
 }
 </script>
 
