@@ -1,0 +1,17 @@
+.solts-visualizer {
+    li {
+        float: left;
+        margin: 5px;
+        padding: 15px;
+    }
+    .booked {
+        background-color: #dfdfe4;
+    }
+    .br {
+        border: 1px solid #f00;
+        clear: both;
+    }
+}
+.slot-tabs {
+    max-height: 50px;
+}

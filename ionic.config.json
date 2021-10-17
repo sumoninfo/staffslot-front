@@ -1,0 +1,7 @@
+{
+  "name": "Time Slot Pro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

@@ -1,0 +1,15 @@
+#nprogress {
+    .bar {
+      background: #fff;
+    }
+
+    .peg {
+      box-shadow: 0 0 10px #fff, 0 0 5px #fff;
+    }
+
+    .spinner {
+      // display: none;
+      left:50%;
+      top:30%;
+    }
+}

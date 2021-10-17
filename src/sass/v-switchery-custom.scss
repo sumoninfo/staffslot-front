@@ -1,0 +1,11 @@
+.vue-switcher-theme--bootstrap.vue-switcher-color--success {
+  div:after {
+    background-color: #fff !important;
+  }
+  &.vue-switcher--unchecked div {
+    &:after {
+      background-color: #fff !important;
+    }
+    background-color: #a7a7a7 !important;
+  }
+}

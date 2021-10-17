@@ -1,0 +1,12 @@
+{
+	"appId": "com.timeslot.pro",
+	"appName": "Time Slot Pro",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"server": {
+		"allowNavigation": []
+	},
+	"android": {
+		"allowMixedContent": true
+	}
+}
